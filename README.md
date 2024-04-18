@@ -30,3 +30,5 @@ If you would like to contribute to this project, feel free to fork the repositor
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email or LinkedIn. Let's collaborate and make a positive impact together!
+Website - http://mahendrapuniya.online/
+E-mail - mahendrapuniya92@gmail.com
